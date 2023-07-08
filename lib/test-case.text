@@ -1,0 +1,12 @@
+Test case:
+1. Terapkan navigasi pada halaman utama yang akan mengarahkan user halaman lain sesuai dengan routeName ketika
+  user menekan tombol navigasi. Gunakan method goTo pada class ButtonNav.
+2. Setiap navigasi yang dilakukan, tombol navigasi akan menampilkan berapa kali halaman tersebut telah diakses, example: "1. Navigation: 2", angka 2
+  adalah jumlah berapa kali tombol navigasi mengarahkan user ke halaman yang bersangkutan.
+2. Pada halaman test_1, buat tombol untuk kembali kehalaman pertama.
+3. Pada halaman test_2, buatlah:
+  - Navigasi tombol tambah kehalaman input new user
+  - Mengambil data user baru yang disubmit untuk ditampilkan dihalaman test_2
+  - Menampilkan jumlah user, dan jumlah user berdasarkan tipe nya
+  - Menampilkan list dari user yang telah dinput
+  - User dengan tipe admin akan menampilkan tipe user text dengan warna hijau sedangkan operator berwarna biru
